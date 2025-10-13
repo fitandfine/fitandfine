@@ -5,6 +5,11 @@ I’m passionate about **Linux, networking, server administration, and automatio
 This is my documentation of learning towards my long term career goal of becoming a dependable DevOps engineer who is not completely replacable by AI. ;)
 
 ---
+## 🏅 Certifications
+
+### 🧠 Oracle Cloud Infrastructure 2025 Foundations Associate
+[<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="120">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)
+
 
 ## 🌱 What I'm Learning
 - Linux fundamentals, shell scripting, and server management  
