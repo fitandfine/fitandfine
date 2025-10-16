@@ -10,7 +10,7 @@ This is my documentation of learning towards my long term career goal of becomin
 ### 🧠 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 [<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)
 ### 🧠 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-[<img src="oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE)
+[<img src="Oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE)
 
 
 ## 🌱 What I'm Learning
