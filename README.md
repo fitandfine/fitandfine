@@ -1,19 +1,10 @@
 # 👋 Hi, I'm Anup Chapain  
 
 Welcome to my corner of GitHub!  
-I’m passionate about **Linux, networking, server administration, and automation**, and I’m continuously learning by building small but meaningful projects.
-This is my documentation of learning towards my long term career goal of becoming a dependable DevOps engineer who is not completely replacable by AI. ;)
+I’m passionate about **Cloud Infrastructure, Python, Linux, networking, server administration, and automation**, and I’m continuously learning by building small but meaningful projects.
+This is my documentation of learning towards my long term career goal of becoming a dependable DevOps engineer who is not completely replacable by AI very soon. ;)
 
 ---
-## 🏅 Certifications
-
-### 🧠 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-### 🧠 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-### 🧠 Oracle Data Platform 2025 Certified Foundations Associate
-[<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)  [<img src="Oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE) [<img src="Oracle_badge_data.jpg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="200">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=237C3E3F5A2A3B557B17039952A8078616AA5479CE8BAE0111599AFB06EACC9B)
-
-
-
 
 ## 🌱 What I'm Learning
 - Linux fundamentals, shell scripting, and server management  
@@ -23,7 +14,16 @@ This is my documentation of learning towards my long term career goal of becomin
 
 ---
 
-## 🛠️ Projects & Experiments
+## 🏅 Certifications
+
+### 🧠 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+### 🧠 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+### 🧠 Oracle Data Platform 2025 Certified Foundations Associate
+[<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)  [<img src="Oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE) [<img src="oracle_badge_data.jpg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="200">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=237C3E3F5A2A3B557B17039952A8078616AA5479CE8BAE0111599AFB06EACC9B)
+
+---
+
+## 🛠️ Some Projects & Experiments
 
 ### 🔹 [Real-Time Face Blur with GPU Acceleration + Virtual Webcam](https://github.com/fitandfine/faceblur)
 > Python app that detects faces in real time and applies automatic blurring for **privacy protection** in calls or streams.  
@@ -58,7 +58,7 @@ This is my documentation of learning towards my long term career goal of becomin
 - **Docker**: containerized workflows.
 - **Networking & DNS**: diagnostic tools (dig, nslookup, traceroute, tcpdump, etc.)
 - **Python**: With the view to leveraging power of AI for future projects.
-- **Cloud**: Preparing for AWS Certification.
+- **Cloud**: Preparing for Oracle Cloud Infrastructure Architect Associate.
 - **Markdown & Documentation**: clear and thorough project docs.
 
 ---
