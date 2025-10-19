@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Anup Chapain  
-
+## [View Profile Page](https://fitandfine.github.io/anup/)
 Welcome to my corner of GitHub!
 I’m passionate about **Cloud Infrastructure, Python, Linux, networking, server administration, and automation**, and I’m continuously learning by building small but meaningful projects.
 This is my documentation of learning towards my long term career goal of becoming a dependable DevOps engineer who is not completely replacable by AI very soon. ;)
-## [View Profile Page](https://fitandfine.github.io/anup/)
 ---
 
 ## 🌱 What I'm Learning
