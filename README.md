@@ -16,8 +16,7 @@ This is my documentation of learning toward my long-term career goal of becoming
 ---
 
 ### 📚 Certifications
-[<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)   [<img src="Oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE)   [<img src="oracle_badge_data.jpg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="200">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=237C3E3F5A2A3B557B17039952A8078616AA5479CE8BAE0111599AFB06EACC9B)  
-[<img src="cisco_linux-unhatched.png" alt="CISCO Network Academy Linux Unhatched" width="200">](https://www.credly.com/badges/41d351c7-0221-41d2-8532-ecd745b7730c)
+[<img src="oracle_badge.jpeg" alt="Oracle Cloud Infrastructure 2025 Foundations Associate Badge" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D02302CA3C05D0894E965B9A9BBFBAAEEF909B4FA45CA9CA854522C42C03BD55)   [<img src="Oracle_badge_ai.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="200">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FAE4CFEF9C1B3970ED146E9277844D5DC6A21CA76CCB14055E69ED3426248BAE)   [<img src="oracle_badge_data.jpg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="200">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=237C3E3F5A2A3B557B17039952A8078616AA5479CE8BAE0111599AFB06EACC9B)    [<img src="cisco_linux-unhatched.png" alt="CISCO Network Academy Linux Unhatched" width="200">](https://www.credly.com/badges/41d351c7-0221-41d2-8532-ecd745b7730c)
 
 ---
 
