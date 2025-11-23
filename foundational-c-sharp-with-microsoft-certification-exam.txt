@@ -1,0 +1,6 @@
+Foundational C# with Microsoft Certification Exam: Passed
+
+Number of questions: 80
+Correct answers: 78
+Percent correct: 97.5%
+Time: 1:11:05
