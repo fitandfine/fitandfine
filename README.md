@@ -33,7 +33,13 @@ Certificates and badges are uploaded [here](https://github.com/fitandfine/fitand
 ### 🔹 [Dockerized Roster Builder](https://github.com/fitandfine/BP_Roster)  
 > Notes and scripts to set up my first Docker container.  
 - Written in Python  
-- Useful as a beginner **self-study guide** for Docker  
+- Useful as a beginner **self-study guide** for Docker
+
+### 🔹 [Learning Automation with Bash] (https://github.com/fitandfine/linux-scripting-repo)
+> Ideal for beginners learning Linux Bash scripting
+- Demonstrates key concepts: variables, loops, conditionals, functions, environment variables etc.
+- Provides ready-to-run practical scripts for automation.
+- Also contains study notes inside notes folder.
 
 ### 🔹 [Real-Time Face Blur with GPU Acceleration + Virtual Webcam](https://github.com/fitandfine/faceblur)  
 > Python app that detects faces in real-time and applies automatic blurring for **privacy protection** in calls or streams.  
