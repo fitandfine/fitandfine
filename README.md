@@ -35,7 +35,7 @@ Certificates and badges are uploaded [here](https://github.com/fitandfine/fitand
 - Written in Python  
 - Useful as a beginner **self-study guide** for Docker
 
-### 🔹 [Learning Automation with Bash] (https://github.com/fitandfine/linux-scripting-repo)
+### 🔹 [Learning Automation with Bash](https://github.com/fitandfine/linux-scripting-repo)
 > Ideal for beginners learning Linux Bash scripting
 - Demonstrates key concepts: variables, loops, conditionals, functions, environment variables etc.
 - Provides ready-to-run practical scripts for automation.
